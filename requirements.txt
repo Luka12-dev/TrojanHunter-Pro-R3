@@ -1,0 +1,15 @@
+## 💻 System Requirements
+
+**Minimum:**
+- OS: Windows 10 (64-bit) or newer
+- CPU: Dual-core processor @ 2.0 GHz
+- RAM: 2 GB
+- Storage: 50 MB free space
+- Python: 3.9 or newer
+
+**Recommended:**
+- OS: Windows 10/11 (64-bit)
+- CPU: Quad-core processor @ 3.0 GHz+
+- RAM: 4 GB+
+- Storage: 100 MB free space (plus space for scanned files)
+- Python: 3.11+
